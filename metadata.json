@@ -1,0 +1,5 @@
+{
+  "name": "Simulador Interactivo de Termodinámica",
+  "description": "Un simulador web interactivo y educativo para explorar los principios fundamentales de la termodinámica. Los usuarios pueden visualizar procesos en diagramas P-v, T-s, P-h y h-s, y analizar el comportamiento de sustancias puras y ciclos termodinámicos básicos.",
+  "requestFramePermissions": []
+}
